@@ -1,1 +1,1 @@
-<script>alert(1)</script>
+<script>eval(alert(1))</script>
