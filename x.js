@@ -1,3 +1,3 @@
 <script>
-alert('papazpower')
+alert('papazpower');
 </script>
